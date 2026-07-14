@@ -240,9 +240,9 @@ Loan EMI & Amortization Calculator
 
 ✔ Built Entirely in Microsoft Excel
 
-## 📸 Snapshot
-
 ---
+
+## 📸 Snapshot
 
 # Loan_Calculator
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/deb101fc-59a7-4eb8-b1d1-67d7345db23b" />
